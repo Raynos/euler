@@ -1,0 +1,16 @@
+{
+    "name": "euler", 
+    "version": "0.9.9",
+    "description": "euler", 
+    "author": "Raynos <raynos2@gmail.com>",
+    "scripts": {
+        "test": "make test"  
+    },
+    "dependencies": {
+        "pd": "0.6.3"
+    },
+    "devDependencies": {
+        "mocha": "0.14.1"
+    },
+    "private": true
+}
