@@ -18,3 +18,9 @@ suite("Problem 3", function () {
         assert.equal(euler.problems[3](), 6857)
     })
 })
+
+suite("Problem 4", function () {
+    test("problem 4 is correct", function () {
+        assert.equal(euler.problems[4](), 906609)
+    })
+})
